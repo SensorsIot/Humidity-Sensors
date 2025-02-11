@@ -1,0 +1,5 @@
+The definition of soil relative humidity is to take 1 kg of soil sample, thoroughly dry it, and the ratio of the reduced weight (weight of water) to 1 kg is called soil moisture
+
+so it is impossible to read out 100% humidity for soil.
+can read out 100% if put sensor in water completely
+

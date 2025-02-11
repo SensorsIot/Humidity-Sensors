@@ -1,0 +1,14 @@
+Important Reminder
+The measurement of NPK adopts the general rapid detection method, so there are certain error, Use with caution for planting reference.
+The existing electronic measuring method cannot accurately measure NPK, the error is big, sensor only show trend of NPK.
+
+However, the sensor supports the function of writing NPK data. You can use standard instruments to measure NPK then write in to provide data for monitoring system.
+
+
+The existing electronic measuring method cannot accurately measure NPK, the error is big, sensor only show trend of NPK.
+so, it is the best way to write the value that measured by the standard instrument into the sensor
+
+
+note:
+Once NPK are written to any value, NPK value will not change.
+can write FFFF to register of NPK to reset

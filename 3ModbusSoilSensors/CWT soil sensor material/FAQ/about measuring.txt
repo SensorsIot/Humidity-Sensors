@@ -1,0 +1,5 @@
+1. PH need 5 minutes, others 1-2 minutes
+
+2. The best way to measure soil parameters (like PH, NPK) is to use reagents and then calibrate the sensor, Especially NPK,  write the Accurate value in to sensor, The measured value of the sensor can only be used as a reference.
+
+3. do not affect the measurement in -20 to 60 degree.

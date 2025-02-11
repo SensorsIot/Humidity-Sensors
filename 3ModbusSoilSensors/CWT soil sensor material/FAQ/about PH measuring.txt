@@ -1,0 +1,11 @@
+The probes are inserted into the soil for more than 5 minutes to measure the accurate PH value
+other parameter need 2 minutes at least.
+
+PH value is not affected by temperature, not by soil moisture
+Generally, the soil moisture should be kept at about 20-30%.
+the soil should not be too dry
+
+
+about PH probe:
+Because The PH probe is made of alloy material, If used in overly acidic or alkaline soil, it can cause corrosion, with an approximate lifespan of one year. The other probes are made of stainless steel and can be used for a long time.
+if PH probe is made of stainless steel, measuring results will have big error.
